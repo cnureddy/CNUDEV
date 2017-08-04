@@ -1,0 +1,1 @@
+/*insert into application values(1,'OLA',1,'2017-01-01',1,'2017-01-01',1,1);*/
